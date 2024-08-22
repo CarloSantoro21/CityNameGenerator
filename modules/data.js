@@ -1,40 +1,16 @@
 const first = [
-  "The next time ",
-  "In the future, ",
-  "Very soon, ",
-  "Before long, ",
-  "Fate will lead you to ",
-  "You will soon discover that ",
-  "In the near future, ",
-  "When you least expect it, ",
-  "The next chapter of your life ",
-  "The opportunity to "
+  "Aero", "Brio", "Carla", "Drax", "Eldor", "Fiora", "Glyn", "Hara", "Ivor", "Jura",
+  "Lum", "Zara", "Kara", "Nex", "Riva", "Tara", "Vorn", "Zephyr", "Maris", "Orin",
+  "Nor", "Aris", "Ver", "Mira", "Elan", "Thorn", "Sel", "Vira", "Caro", "Bren"
 ]
 
 const second = [
-  "a great change",
-  "new adventures",
-  "an unexpected surprise",
-  "an unforeseen path",
-  "great opportunities",
-  "an exciting challenge",
-  "a clear goal",
-  "a crucial decision",
-  "an eye-opening experience",
-  "a challenging achievement"
+  "land", "tor", "mere", "ton", "ville", "shire", "wood", "tonia", "burg", "field",
+  "valley", "crest", "dale", "port", "town", "ham", "point", "glen", "ford", "ridge"
 ]
 
 const third = [
-  " will lead you to success.",
-  " will open doors for you.",
-  " will change your perspective.",
-  " will transform your life.",
-  " will make you stronger.",
-  " will guide you to happiness.",
-  " will bring you clarity.",
-  " will be revealing.",
-  " will push you forward.",
-  " will lead you to fulfill your dreams."
+  "ia", "en", "an", "or", "is", "os", "ar", "a", "us", "on"
 ]
 
-export { first, second, third }
+module.exports = { first, second, third }
