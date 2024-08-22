@@ -1,2 +1,3 @@
-# MixedMessages
-A generator of random messages
+# Fictional city name generator
+
+Simple fictional city name generator using CommonJS standard for modules 
