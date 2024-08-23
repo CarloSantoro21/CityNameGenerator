@@ -13,4 +13,4 @@ const third = [
   "ia", "en", "an", "or", "is", "os", "ar", "a", "us", "on"
 ]
 
-module.exports = { first, second, third }
+export { first, second, third }

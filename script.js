@@ -1,4 +1,4 @@
-import { generateCity } from '../src/main.js'
+import { generateCity } from './src/main.js'
 
 console.log(generateCity())
 
