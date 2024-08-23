@@ -1,16 +1,12 @@
 const first = [
-  "Aero", "Brio", "Carla", "Drax", "Eldor", "Fiora", "Glyn", "Hara", "Ivor", "Jura",
-  "Lum", "Zara", "Kara", "Nex", "Riva", "Tara", "Vorn", "Zephyr", "Maris", "Orin",
-  "Nor", "Aris", "Ver", "Mira", "Elan", "Thorn", "Sel", "Vira", "Caro", "Bren"
+  "Alex", "Ben", "Cara", "Drew", "Eli", "Fay", "Gus", "Hank", "Ivy", "Jay",
+  "Leo", "Max", "Nia", "Ollie", "Pip", "Quinn", "Rex", "Sam", "Tess", "Uma",
+  "Val", "Wes", "Zoe", "Kai", "Mia", "Nate", "Rae", "Sid", "Tina", "Vera"
 ]
 
 const second = [
-  "land", "tor", "mere", "ton", "ville", "shire", "wood", "tonia", "burg", "field",
-  "valley", "crest", "dale", "port", "town", "ham", "point", "glen", "ford", "ridge"
+  "bay", "ford", "hill", "isle", "moor", "plain", "ridge", "shore", "town", "vale",
+  "wood", "port", "field", "brook", "park", "glen", "dale", "view", "brook", "plain"
 ]
 
-const third = [
-  "ia", "en", "an", "or", "is", "os", "ar", "a", "us", "on"
-]
-
-export { first, second, third }
+export { first, second }

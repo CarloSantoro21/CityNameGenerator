@@ -1,11 +1,10 @@
-import { first, second, third } from './data.js'
+import { first, second } from './data.js'
 
-const max = [first.length, second.length, third.length]
+const max = [first.length, second.length]
 
 const generateCity = () => {
     let firstStr = first[getRandomNum(max[0])]
     let secondStr = second[getRandomNum(max[1])]
-    let thirdStr = third[getRandomNum(max[2])]
 
     return firstStr+secondStr+thirdStr
 }
