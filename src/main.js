@@ -6,7 +6,7 @@ const generateCity = () => {
     let firstStr = first[getRandomNum(max[0])]
     let secondStr = second[getRandomNum(max[1])]
 
-    return firstStr+secondStr+thirdStr
+    return firstStr+secondStr
 }
 
 const getRandomNum = (max) => {
